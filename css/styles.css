@@ -28,6 +28,9 @@ h1 {
 h2 {
   color: blue;
   background-color: bisque;
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
 }
 .link {
   color: blue;
@@ -42,6 +45,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-p {
+.define {
   background-color: rgb(197, 233, 161);
+  cursor: grabbing;
+  padding: 10px;
+  border-radius: 6px;
 }
