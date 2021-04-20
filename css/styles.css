@@ -27,6 +27,7 @@ h1 {
 }
 h2 {
   color: blue;
+  background-color: bisque;
 }
 .link {
   color: blue;
@@ -40,4 +41,7 @@ body {
   background: url("../images/photo.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+}
+p {
+  background-color: rgb(197, 233, 161);
 }
