@@ -49,5 +49,6 @@ body {
   background-color: rgb(197, 233, 161);
   cursor: grabbing;
   padding: 10px;
+  display: none;
   border-radius: 6px;
 }
